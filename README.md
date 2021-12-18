@@ -16,4 +16,8 @@ pip3 install flask && python3 server.py
 
 <https://github.com/breatheco-de/exercise-domain-generator>
 
+## Direct live demo 🎬
+
+<https://raw.githack.com/m4n50n/domain_name_generator/main/index.html>
+
 💻 _Jose Clemente García Rodríguez_ (<https://github.com/m4n50n>)
